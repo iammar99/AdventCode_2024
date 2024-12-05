@@ -33,6 +33,8 @@ advent-of-code-2024/
 | 1   | ✅     | ✅     | ⭐⭐   | Easy       | String manipulation |
 | 2   | ✅     | ✅     | ⭐⭐   | Easy       | String manipulation |
 | 3   | ✅     | ✅     | ⭐⭐   | Easy       | String manipulation |
+| 4   | ✅     | ✅     | ⭐⭐   | Easy       | String manipulation |
+| 5   | ✅     | ✅     | ⭐⭐   | Easy       | String manipulation |
 | ... | -      | -      | -     | -          | - |
 
 ## 🏆 Personal Goals
